@@ -17,7 +17,7 @@ function HomeController() {
                 </div>
             `
         })
-        document.getElementById('results').innerHTML = template
+        document.getElementById('homes-results').innerHTML = template
     }
 
     this.addHome = function(event){

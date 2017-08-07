@@ -8,3 +8,17 @@
     margin: 10px;
     padding: 10px;
 }
+
+
+body{
+    text-align: center;
+}
+
+.form-add-label{
+    display: block;
+}
+
+body{
+    /* background-color: black; */
+    /* text-align: center; */
+}
